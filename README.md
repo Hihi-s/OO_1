@@ -25,3 +25,6 @@
 
 [高科大](https://www.nkust.edu.tw/)
 
+|   :smile:   |   :cry:  |
+|:-----:|:----:|
+|    :joy:  |    :angry: |
