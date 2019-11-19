@@ -1,0 +1,22 @@
+class CTriangle extends CShape {
+  propected double a;
+  propected double b;
+  propected double c;
+  
+  public CTriangle(double a ,double b){
+    a = a;
+    b = b;
+    c = c;
+  }
+  
+  public void show(){
+     System.out.println("color="+color+", ");
+     System.out.println("area="+a*b*0.5);
+   }
+ }
+  
+  public static void main(String args[]){
+      CTriangle tri = new CTriangle(3,4);
+      tri.setcolor("red");
+      tri.show();
+  }
