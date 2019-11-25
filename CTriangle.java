@@ -35,7 +35,6 @@ public class trigle
       CTriangle tri = new CTriangle(3,4);
       tri.setcolor("red");
       tri.show();
-      System.out.println("hihi");
   }
 }
 
