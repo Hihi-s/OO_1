@@ -42,7 +42,7 @@ interface Shape {
    }
 }
 
-pubic class TestShape {
+public class TestShape {
    public static void main(String[] args) {
       Shape s1 = new Rectangle(1, 2);  // upcast
       System.out.println(s1);
